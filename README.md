@@ -30,8 +30,8 @@ Unobserved signers dataset has been created using [this YouTube video](https://y
 
 ## Setup
 
-- Download the trained model from [here](https://github.com/aniketsharma00411/sign-language-to-text-translator/tree/main/models).
-- Download the [live_translate.py](https://github.com/aniketsharma00411/sign-language-to-text-translator/blob/main/live_translate.py) script to translate using Webcam or the [video_translate.py](https://github.com/aniketsharma00411/sign-language-to-text-translator/blob/main/video_translate.py) script to translate a recorded video.
+- Download the trained model from [here](https://github.com/anuj0721/sign-language-to-text-translator/tree/main/models).
+- Download the [live_translate.py](https://github.com/anuj0721/sign-language-to-text-translator/blob/main/live_translate.py) script to translate using Webcam or the [video_translate.py](https://github.com/anuj0721/sign-language-to-text-translator/blob/main/video_translate.py) script to translate a recorded video.
 - Run the script and choose the model to use to translate.
 
 [This](https://youtu.be/TE6mQuVlylU) video demonstrates translation using Webcam.
@@ -48,7 +48,7 @@ On [observed signers](https://www.kaggle.com/grassknoted/asl-alphabet)
 | Transfer Learning CNN with Data Augmentation | 94.95%   | 0.951     | 0.949  | 0.949   |
 | Ensemble Model                               | 99.99%   | 0.999     | 0.999  | 0.999   |
 
-On [unobserved signers](https://github.com/aniketsharma00411/sign-language-to-text-translator/tree/main/asl_alphabets)
+On [unobserved signers](https://github.com/anuj0721/sign-language-to-text-translator/tree/main/asl_alphabets)
 
 | Model                                        | Accuracy | Precision | Recall | F-Score |
 | -------------------------------------------- | -------- | --------- | ------ | ------- |
