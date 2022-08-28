@@ -8,9 +8,9 @@ This project focuses on Fingerspelling component of ASL.
 
 There are three different startegies for Sign Language Translation:
 
-- using specialized hand-tracking tools
-- using depth map
-- using Computer Vision
+- using specialized hand-tracking tools.
+- using depth map.
+- using Computer Vision.
 
 The main objective of this project is to develop an AI system capable of translating Sign Language without requiring any specialized hardware.
 
