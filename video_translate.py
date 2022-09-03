@@ -53,7 +53,7 @@ def main():
 
     if choose_model == 4:
         model = [tf.keras.models.load_model(
-            f'model/asl_basic_ensemble_{i}.h5') for i in range(5)]
+            f'models/asl_basic_ensemble_{i}.h5') for i in range(5)]
     else:
         model = tf.keras.models_load_model(
             f'models/asl_{models[choose_model]}.h5')
