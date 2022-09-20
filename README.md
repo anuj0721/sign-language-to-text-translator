@@ -33,9 +33,6 @@ Unobserved signers dataset has been created using [this YouTube video](https://y
 - Download the trained model from [here](https://github.com/anuj0721/sign-language-to-text-translator/tree/main/models).
 - Download the [live_translate.py](https://github.com/anuj0721/sign-language-to-text-translator/blob/main/live_translate.py) script to translate using Webcam or the [video_translate.py](https://github.com/anuj0721/sign-language-to-text-translator/blob/main/video_translate.py) script to translate a recorded video.
 - Run the script and choose the model to use to translate.
-
-[This](https://youtu.be/TE6mQuVlylU) video demonstrates translation using Webcam.
-
 ## Results
 
 On [observed signers](https://www.kaggle.com/grassknoted/asl-alphabet)
